@@ -162,8 +162,7 @@ Universidad Adolfo Ibáñez.
 ## 📬 Contacto
 
 **Javier Agustín Figueroa Quintana**  
-📧 [correo institucional o personal]  
-🔗 GitHub / LinkedIn (opcional)
+📧 javierfigueroa@alumnos.uai.cl 
 
 
 
